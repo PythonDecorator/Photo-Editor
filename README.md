@@ -1,11 +1,11 @@
-# [Photo Editor: A Modern Breakout Game using Pygame](https://github.com/PythonDecorator)
+# [Photo Editor](https://github.com/PythonDecorator)
 
 <br />
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 
 --- 
-
+![Thumbnail.jpg](demo%2FThumbnail.jpg)
 ## Table of Contents
 
 * [Overview](#overview)
@@ -13,7 +13,6 @@
 * [Documentation](#documentation)
 * [Features](#features)
 * [Converting to Executable](#converting-to-executable)
-* [Controls](#Controls)
 * [Licensing](#license)
 * [Reporting Issues](#reporting-issues)
 * [Technical Support or Questions](#technical-support-or-questions)
@@ -36,7 +35,7 @@ professional-looking edits.
 
 ## Demo
 
-![demo-blog.gif](apps/static/assets/demo/demo-blog.gif)
+![Photo Editor Demo.gif](demo%2FPhoto%20Editor%20Demo.gif)
 
 - **Download the One file .exe file from the dist folder**
 - **You don't need to install anything, just download, click and start playing.**
@@ -45,9 +44,9 @@ professional-looking edits.
 
 ## Features
 
-> Game main Features
+> Some main features
 
-1. ✅ `User-Friendly Interface`: Design an intuitive and visually appealing user interface that
+1. ✅ `User-Friendly Interface`: Designed an intuitive and visually appealing user interface that
    allows users to easily navigate and utilize the app's functionalities.
 
 2. ✅ `Image Editing Tools:`: Diverse set of image editing tools, including cropping,
@@ -56,7 +55,7 @@ professional-looking edits.
 3. ✅ `Filters and Effects`: Collection of filters and effects to enhance images creatively. Allow users to
    adjust parameters like brightness, contrast, saturation, and more.
 
-4. ✅ `Undo/Redo`: Implement undo and redo functionality, along with a history panel that
+4. ✅ `Undo/Redo`: Implemented undo and redo functionality, along with a history panel that
    allows users to track their editing steps and revert changes if needed.
 
 5. ✅ `Export`: Enable users to save their edited images in various formats.
@@ -104,25 +103,27 @@ $ pyinstaller main.spec
 
 <br />
 
-## Controls
-
-Press the left or right key to control the paddle.
-
 ## License
 
 This project is licensed under the MIT license. See also the attached LICENSE file.
+
+<br />
 
 ## Reporting Issues
 
 GitHub Issues is the official bug tracker for the Photo Editor.
 
+<br />
+
 ## Technical Support or Questions
 
-If you have questions contact me okpeamos.ao@gmail.com instead of opening an issue.
+If you have questions contact me `okpeamos.ao@gmail.com` instead of opening an issue.
 
 - Make sure that you are using the latest version of the Photo Editor. 
 - Check the CHANGELOG
 - Provide reproducible steps for the issue will shorten the time it takes for it to be fixed.
+
+<br />
 
 ## Social Media
 
