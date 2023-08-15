@@ -38,7 +38,7 @@ professional-looking edits.
 ![Photo Editor Demo.gif](demo%2FPhoto%20Editor%20Demo.gif)
 
 - **Download the One file .exe file from the dist folder**
-- **You don't need to install anything, just download, click and start playing.**
+- **You don't need to install anything, just download, import your photo and start Editing.**
 
 <br />
 
