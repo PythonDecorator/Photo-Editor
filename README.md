@@ -117,7 +117,7 @@ GitHub Issues is the official bug tracker for the Photo Editor.
 
 ## Technical Support or Questions
 
-If you have questions contact me `okpeamos.ao@gmail.com` instead of opening an issue.
+If you have questions contact me `okpeamos.ao@gmail.com`
 
 - Make sure that you are using the latest version of the Photo Editor. 
 - Check the CHANGELOG
